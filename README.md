@@ -16,8 +16,9 @@
 ## 🛠 Skills
 python
 class RachitShah:
+{
     def __init__(self):
-        # Focused skillset tailored for VAPT Analyst roles 🔐
+        # Focused skillset tailored for SOC & VAPT Analyst roles 🔐
         self.technical_skills = {
             "Programming Languages": [
                 "Python", "Shell Scripting", "JavaScript", "Snort"
@@ -40,6 +41,5 @@ class RachitShah:
                 "API Security & Authentication", "Cloud Security Principles", 
                 "Internet Protocols", "Wireless Security Protocols"
             ]
-        }
-
+}
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R2Shah&show_icons=true&locale=en&layout=compact" alt="R2Shah" /></p>
